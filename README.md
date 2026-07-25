@@ -73,7 +73,7 @@ Smart-Irrigation-Prediction/
 
 1. Clone the repository
 
-git clone https://github.com/baddam-pravallika/Smart-Irrigation-Need-Prediction.git
+git clone https://github.com/Baddampravallika/Smart_Irrigation_Need_Prediction.git
 
 3. Install the required libraries
 
